@@ -1,0 +1,208 @@
+{
+    "users": [
+    {
+        "id": 1,
+        "fullName": "Indiana Jones",
+        "email": "jones@email.com",
+        "address": "1256 Magnolia Way",
+        "phone": "615-996-2345",
+        "role": 0
+    },
+    {
+        "id": 2,
+        "fullName": "Selina Kyle",
+        "email": "kyle@email.com",
+        "address": "1307 Crabtree Court",
+        "phone": "615-345-2645",
+        "role": 0
+    },
+    {
+        "id": 3,
+        "fullName": "Martin Pisces",
+        "email": "pisces@email.com",
+        "address": "198 Cherry Street",
+        "phone": "615-369-7748",
+        "role": 0
+    },
+    {
+        "id": 4,
+        "fullName": "DeShawn Stevens",
+        "email": "stevens@email.com",
+        "address": "5623 Ranch Road",
+        "phone": "615-579-4141",
+        "role": 0
+    },
+    {
+        "id": 5,
+        "fullName": "Alexis Vimal",
+        "email": "vimal@email.com",
+        "address": "1352 Underhill Way",
+        "phone": "615-965-2246",
+        "role": 0
+    },
+    {
+        "id": 6,
+        "fullName": "Victoria Starlight",
+        "email": "star@email.com",
+        "address": "1256 Evergreen Place",
+        "phone": "615-996-9875",
+        "role": 0
+    },
+    {
+        "id": 7,
+        "fullName": "Deepak Bannerjee",
+        "email": "snakes@email.com",
+        "address": "1256 Evergreen Place",
+        "phone": "615-996-1130",
+        "role": 0
+    },
+    {
+        "id": 8,
+        "fullName": "Meris Aster",
+        "email": "aster@email.com",
+        "address": "1256 Hibiscus Court",
+        "phone": "615-290-1832",
+        "role": 0
+    },
+    {
+        "id": 9,
+        "fullName": "Jackson Galaxy",
+        "email": "galaxy@email.com",
+        "address": "639 Nebula Way",
+        "phone": "615-527-3268",
+        "role": 0
+    },
+    {
+        "id": 10,
+        "fullName": "Cesar Millan",
+        "email": "millan@email.com",
+        "address": "8712 Maple Ave",
+        "phone": "615-250-0016",
+        "role": 0
+    },
+    {
+        "id": 11,
+        "fullName": "Taylor Swift",
+        "email": "swift@email.com",
+        "address": "135 Songbird Way",
+        "phone": "615-189-1845",
+        "role": 1
+    },   
+    {
+        "id": 12,
+        "fullName": "Dolly Parton",
+        "email": "parton@email.com",
+        "address": "2876 Mountain Drive",
+        "phone": "615-770-1745",
+        "role": 1
+    },      
+    {
+        "id": 13,
+        "fullName": "Arthur Mobius",
+        "email": "mobius@email.com",
+        "address": "5418 Nautical Lane",
+        "phone": "615-854-3210",
+        "role": 1
+    },      
+    {
+        "id": 14,
+        "fullName": "Nicole Kidman",
+        "email": "kidman@email.com",
+        "address": "1209 Tulip Place",
+        "phone": "615-587-6321",
+        "role": 1
+    },      
+    {
+        "id": 15,
+        "fullName": "Toby Keith",
+        "email": "keith@email.com",
+        "address": "1245 Oak Street",
+        "phone": "615-874-9274",
+        "role": 1
+    },      
+    {
+        "id": 16,
+        "fullName": "Oprah Winfrey",
+        "email": "winfrey@email.com",
+        "address": "135 Daisy Court",
+        "phone": "615-333-8876",
+        "role": 1
+    }, 
+    {
+        "id": 17,
+        "fullName": "Maia Dutta",
+        "email": "dutta@email.com",
+        "address": "290 Magnolia Lane",
+        "phone": "615-258-9636",
+        "role": 1
+    }             
+],
+"employees": [
+    {
+        "id": 1,
+        "userId": 1,
+        "biography": "Lorem ipsum",
+        "petTypeId": 5
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "biography": "Lorem ipsum nmk",
+        "petTypeId": 1
+    },
+    {
+        "id": 3,
+        "userId": 3,
+        "biography": "Lorem ipsum nnh",
+        "petTypeId": 3
+    },
+    {
+        "id": 4,
+        "userId": 4,
+        "biography": "Lorem ipsum bhy",
+        "petTypeId": 2
+    },
+    {
+        "id": 5,
+        "userId": 5,
+        "biography": "Lorem ipsumhyr",
+        "petTypeId": 4
+    },
+    {
+        "id": 6,
+        "userId": 6,
+        "biography": "Lorem ipsum try",
+        "petTypeId": 6
+    },
+    {
+        "id": 7,
+        "userId": 7,
+        "biography": "Lorem ipsum xyz",
+        "petTypeId": 7
+    },
+    {
+        "id": 8,
+        "userId": 8,
+        "biography": "Lorem ipsum ywd",
+        "petTypeId": 7
+    },
+    {
+        "id": 9,
+        "userId": 9,
+        "biography": "Lorem ipsum jdi",
+        "petTypeId": 1
+    },
+    {
+        "id": 10,
+        "userId": 10,
+        "biography": "Lorem ipsum hdy",
+        "petTypeId": 2
+    }
+    
+],
+  
+
+
+
+
+}
