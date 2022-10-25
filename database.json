@@ -135,7 +135,15 @@
         "address": "290 Magnolia Lane",
         "phone": "615-258-9636",
         "role": 1
-    }             
+    }     
+    {
+        "id": 18,
+        "fullName": "Jack White",
+        "email": "white@email.com",
+        "address": "18313 Royal Plum Way",
+        "phone": "615-235-7430",
+        "role": 1
+    }                   
 ],
 "employees": [
     {
@@ -200,9 +208,218 @@
     }
     
 ],
-  
-
-
-
+"clients": [
+    {
+        "id": 1,
+        "userId": 11
+    },
+    {
+        "id": 2,
+        "userId": 12
+    },
+    {
+        "id": 3,
+        "userId": 13
+    },
+    {
+        "id": 4,
+        "userId": 14
+    },
+    {
+        "id": 5,
+        "userId": 15
+    },
+    {
+        "id": 6,
+        "userId": 16
+    },
+    {
+        "id": 7,
+        "userId": 17
+    }
+    {
+        "id": 7,
+        "userId": 18
+    }
+],
+"pets": [
+    {
+        "id": 1,
+        "clientId": 11,
+        "petTypeId": 1,
+        "name": "Olivia",
+        "age": 12,
+        "color": " cream with dilute calico points",
+        "breedSpecies": "scottish fold",
+        "medications":"true",
+        "sex": "f",
+        "instructions": "lorem ipsum",
+        "vetInfo": "lorem ipsum"
+    },
+    {
+        "id": 2,
+        "clientId": 12,
+        "petTypeId": 2,
+        "name": "Bruiser",
+        "age": 7,
+        "color": "black",
+        "breedSpecies": "beagle",
+        "medications":"false",
+        "sex": "m",
+        "instructions": "lorem ipsum",
+        "vetInfo":"lorem ipsum"
+    },
+    {
+        "id": 3,
+        "clientId": 13,
+        "petTypeId": 3,
+        "name": "Sponge Bob",
+        "age": 2,
+        "color": "yellow",
+        "breedSpecies": "lorem ipsum",
+        "medications":"false",
+        "sex": "m",
+        "instructions": "lorem ipsum",
+        "vetInfo": "lorem ipsum"
+    },
+    {
+        "id": 4,
+        "clientId": 13,
+        "petTypeId": 3,
+        "name": "Moby",
+        "age": 1,
+        "color": "light pink",
+        "breedSpecies": "lorem ipsum",
+        "medications":"false",
+        "sex": "f",
+        "instructions": "lorem ipsum",
+        "vetInfo": "lorem ipsum"
+    },
+    {
+        "id": 5,
+        "clientId": 13,
+        "petTypeId": 3,
+        "name": "Sampson",
+        "age": 1,
+        "color": "blue",
+        "breedSpecies": "lorem ipsum",
+        "medications":"false",
+        "sex": "m",
+        "instructions": "lorem ipsum",
+        "vetInfo": "lorem ipsum"
+    },
+    {
+        "id": 6,
+        "clientId": 14,
+        "petTypeId": 6,
+        "name": "Herbert",
+        "age": 2,
+        "color": "orange and white",
+        "breedSpecies": "golden hamster",
+        "medications":"true",
+        "sex": "f",
+        "instructions": "lorem",
+        "vetInfo": "lorem"
+    },
+    {
+        "id": 7,
+        "clientId": 15,
+        "petTypeId": 5,
+        "name": "Fuzzy",
+        "age": 6,
+        "color":"red, orange and black",
+        "breedSpecies": "Mexican red-knee",
+        "medications":"false",
+        "sex": "f",
+        "instructions": "lorem ipsum",
+        "vetInfo": "lorem ipsum"
+    },
+    {
+        "id": 8,
+        "clientId": 16,
+        "petTypeId": 7,
+        "name": "Godzilla",
+        "age": 10,
+        "color": "green",
+        "breedSpecies": "green iguana",
+        "medications":"false",
+        "sex": "m",
+        "instructions": "lorem ipsum",
+        "vetInfo": "lorem ipsum"
+    },
+    {
+        "id": 9,
+        "clientId": 17,
+        "petTypeId": 1,
+        "name": "Richard Parker",
+        "age": 9,
+        "color": "orange tabby",
+        "breedSpecies": "domestic shorthair",
+        "medications":"false",
+        "sex": "m",
+        "instructions": "loren",
+        "vetInfo":"lorem"
+    },
+    {
+        "id": 10,
+        "clientId": 17,
+        "petTypeId": 1,
+        "name": "Tori",
+        "age": 9,
+        "color": "black, orange and white calico",
+        "breedSpecies": "domestic shorthair",
+        "medications":"false",
+        "sex": "f",
+        "instructions": "lorem ipsum",
+        "vetInfo": "lorem ipsum"
+    },
+    {
+        "id": 11,
+        "clientId": 17,
+        "petTypeId": 1,
+        "name": "Lily",
+        "age": 12,
+        "color": "brown and cream",
+        "breedSpecies": "siamese mix",
+        "medications":"true",
+        "sex": "f",
+        "instructions": "lorem ipsum",
+        "vetInfo": "lorem ipsum"
+    },
+    {
+        "id": 12,
+        "clientId": 18,
+        "petTypeId": 18,
+        "name": "Elvis",
+        "age": 12,
+        "color": "grey with red under tail",
+        "breedSpecies": "african grey parrot",
+        "medications":"true",
+        "sex": "m",
+        "instructions": "lorem",
+        "vetInfo": "lorem"
+    } 
+],
+"employeePet": [
+    {
+        "id": 1,
+        "employeeId":0, 
+        "petId":,
+    },
+],
+"clientPet": [
+    {
+        "id": 1,
+        "clientId": 0,
+        "petId":
+    },
+],
+"petType": [
+    {
+        "id": 1,
+        "petType",
+        "petId":,
+    }
+],
 
 }
