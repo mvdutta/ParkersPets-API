@@ -1,248 +1,265 @@
 {
-    "users": [
+  "users": [
     {
-        "id": 1,
-        "fullName": "Indiana Jones",
-        "email": "jones@email.com",
-        "address": "1256 Magnolia Way",
-        "phone": "615-996-2345",
-        "role": 0
+      "id": 1,
+      "fullName": "Indiana Jones",
+      "email": "jones@email.com",
+      "streetAddress": "1256 Magnolia Way",
+      "zipCode": "37011",
+      "phone": "615-996-2345",
+      "role": 0
     },
     {
-        "id": 2,
-        "fullName": "Selina Kyle",
-        "email": "kyle@email.com",
-        "address": "1307 Crabtree Court",
-        "phone": "615-345-2645",
-        "role": 0
+      "id": 2,
+      "fullName": "Selina Kyle",
+      "email": "kyle@email.com",
+      "streetAddress": "1307 Crabtree Court",
+      "zipCode": "37215",
+      "phone": "615-345-2645",
+      "role": 0
     },
     {
-        "id": 3,
-        "fullName": "Martin Pisces",
-        "email": "pisces@email.com",
-        "address": "198 Cherry Street",
-        "phone": "615-369-7748",
-        "role": 0
+      "id": 3,
+      "fullName": "Martin H. Zoolander",
+      "email": "fish@email.com",
+      "streetAddress": "198 Cherry Street",
+      "zipCode": "37024",
+      "phone": "615-369-7748",
+      "role": 0
     },
     {
-        "id": 4,
-        "fullName": "DeShawn Stevens",
-        "email": "stevens@email.com",
-        "address": "5623 Ranch Road",
-        "phone": "615-579-4141",
-        "role": 0
+      "id": 4,
+      "fullName": "DeShawn Smith",
+      "email": "smith@email.com",
+      "streetAddress": "5623 Ranch Road",
+      "zipCode": "37215",
+      "phone": "615-579-4141",
+      "role": 0
     },
     {
-        "id": 5,
-        "fullName": "Alexis Vimal",
-        "email": "vimal@email.com",
-        "address": "1352 Underhill Way",
-        "phone": "615-965-2246",
-        "role": 0
+      "id": 5,
+      "fullName": "Alexis Vimal",
+      "email": "vimal@email.com",
+      "streetAddress": "1352 Underhill Way",
+      "zipCode": "37116",
+      "phone": "615-965-2246",
+      "role": 0
     },
     {
-        "id": 6,
-        "fullName": "Victoria Starlight",
-        "email": "star@email.com",
-        "address": "1256 Evergreen Place",
-        "phone": "615-996-9875",
-        "role": 0
+      "id": 6,
+      "fullName": "Victoria Starlight",
+      "email": "star@email.com",
+      "streetAddress": "1256 Evergreen Place",
+      "zipCode": "37021",
+      "phone": "615-996-9875",
+      "role": 0
     },
     {
-        "id": 7,
-        "fullName": "Deepak Bannerjee",
-        "email": "snakes@email.com",
-        "address": "1256 Evergreen Place",
-        "phone": "615-996-1130",
-        "role": 0
+      "id": 7,
+      "fullName": "Deepak Bannerjee",
+      "email": "snakes@email.com",
+      "streetAddress": "1256 Evergreen Place",
+      "zipCode": "37204",
+      "phone": "615-996-1130",
+      "role": 0
     },
     {
-        "id": 8,
-        "fullName": "Meris Aster",
-        "email": "aster@email.com",
-        "address": "1256 Hibiscus Court",
-        "phone": "615-290-1832",
-        "role": 0
+      "id": 8,
+      "fullName": "Meris Aster",
+      "email": "aster@email.com",
+      "streetAddress": "1256 Hibiscus Court",
+      "zipCode": "37205",
+      "phone": "615-290-1832",
+      "role": 0
     },
     {
-        "id": 9,
-        "fullName": "Jackson Galaxy",
-        "email": "galaxy@email.com",
-        "address": "639 Nebula Way",
-        "phone": "615-527-3268",
-        "role": 0
+      "id": 9,
+      "fullName": "Jackson Galaxy",
+      "email": "galaxy@email.com",
+      "streetAddress": "639 Nebula Way",
+      "zipCode": "37207",
+      "phone": "615-527-3268",
+      "role": 0
     },
     {
-        "id": 10,
-        "fullName": "Cesar Millan",
-        "email": "millan@email.com",
-        "address": "8712 Maple Ave",
-        "phone": "615-250-0016",
-        "role": 0
+      "id": 10,
+      "fullName": "Cesar Millan",
+      "email": "millan@email.com",
+      "streetAddress": "8712 Maple Ave",
+      "zipCode": "37115",
+      "phone": "615-250-0016",
+      "role": 0
     },
     {
-        "id": 11,
-        "fullName": "Taylor Swift",
-        "email": "swift@email.com",
-        "address": "135 Songbird Way",
-        "phone": "615-189-1845",
-        "role": 1
-    },   
-    {
-        "id": 12,
-        "fullName": "Dolly Parton",
-        "email": "parton@email.com",
-        "address": "2876 Mountain Drive",
-        "phone": "615-770-1745",
-        "role": 1
-    },      
-    {
-        "id": 13,
-        "fullName": "Arthur Mobius",
-        "email": "mobius@email.com",
-        "address": "5418 Nautical Lane",
-        "phone": "615-854-3210",
-        "role": 1
-    },      
-    {
-        "id": 14,
-        "fullName": "Nicole Kidman",
-        "email": "kidman@email.com",
-        "address": "1209 Tulip Place",
-        "phone": "615-587-6321",
-        "role": 1
-    },      
-    {
-        "id": 15,
-        "fullName": "Toby Keith",
-        "email": "keith@email.com",
-        "address": "1245 Oak Street",
-        "phone": "615-874-9274",
-        "role": 1
-    },      
-    {
-        "id": 16,
-        "fullName": "Oprah Winfrey",
-        "email": "winfrey@email.com",
-        "address": "135 Daisy Court",
-        "phone": "615-333-8876",
-        "role": 1
-    }, 
-    {
-        "id": 17,
-        "fullName": "Maia Dutta",
-        "email": "dutta@email.com",
-        "address": "290 Magnolia Lane",
-        "phone": "615-258-9636",
-        "role": 1
-    }     
-    {
-        "id": 18,
-        "fullName": "Jack White",
-        "email": "white@email.com",
-        "address": "18313 Royal Plum Way",
-        "phone": "615-235-7430",
-        "role": 1
-    }                   
-],
-"employees": [
-    {
-        "id": 1,
-        "userId": 1,
-        "biography": "Lorem ipsum",
-        "petTypeId": 5
+      "id": 11,
+      "fullName": "Taylor Swift",
+      "email": "swift@email.com",
+      "streetAddress": "135 Songbird Way",
+      "zipCode": "37207",
+      "phone": "615-789-9988",
+      "role": 1
     },
     {
-        "id": 2,
-        "userId": 2,
-        "biography": "Lorem ipsum nmk",
-        "petTypeId": 1
+      "id": 12,
+      "fullName": "Dolly Parton",
+      "email": "parton@email.com",
+      "streetAddress": "2876 Mountain Drive",
+      "zipCode": "37215",
+      "phone": "615-770-1745",
+      "role": 1
     },
     {
-        "id": 3,
-        "userId": 3,
-        "biography": "Lorem ipsum nnh",
-        "petTypeId": 3
+      "id": 13,
+      "fullName": "Arthur Mobius",
+      "email": "mobius@email.com",
+      "streetAddress": "5418 Nautical Lane",
+      "zipCode": "37024",
+      "phone": "615-854-3210",
+      "role": 1
     },
     {
-        "id": 4,
-        "userId": 4,
-        "biography": "Lorem ipsum bhy",
-        "petTypeId": 2
+      "id": 14,
+      "fullName": "Nicole Kidman",
+      "email": "kidman@email.com",
+      "streetAddress": "1209 Tulip Place",
+      "zipCode": "37021",
+      "phone": "615-587-6321",
+      "role": 1
     },
     {
-        "id": 5,
-        "userId": 5,
-        "biography": "Lorem ipsumhyr",
-        "petTypeId": 4
+      "id": 15,
+      "fullName": "Toby Keith",
+      "email": "keith@email.com",
+      "streetAddress": "1245 Oak Street",
+      "zipCode": "37011",
+      "phone": "615-874-9274",
+      "role": 1
     },
     {
-        "id": 6,
-        "userId": 6,
-        "biography": "Lorem ipsum try",
-        "petTypeId": 6
+      "id": 16,
+      "fullName": "Oprah Winfrey",
+      "email": "winfrey@email.com",
+      "streetAddress": "135 Daisy Court",
+      "zipCode": "37204",
+      "phone": "615-333-8876",
+      "role": 1
     },
     {
-        "id": 7,
-        "userId": 7,
-        "biography": "Lorem ipsum xyz",
-        "petTypeId": 7
+      "id": 17,
+      "fullName": "Maia Dutta",
+      "email": "dutta@email.com",
+      "streetAddress": "290 Magnolia Lane",
+      "zipCode": "37215",
+      "phone": "615-258-9636",
+      "role": 1
     },
     {
-        "id": 8,
-        "userId": 8,
-        "biography": "Lorem ipsum ywd",
-        "petTypeId": 7
-    },
-    {
-        "id": 9,
-        "userId": 9,
-        "biography": "Lorem ipsum jdi",
-        "petTypeId": 1
-    },
-    {
-        "id": 10,
-        "userId": 10,
-        "biography": "Lorem ipsum hdy",
-        "petTypeId": 2
+      "id": 18,
+      "fullName": "Jack White",
+      "email": "white@email.com",
+      "streetAddress": "18313 Royal Plum Way",
+      "zipCode": "37116",
+      "phone": "615-235-7430",
+      "role": 1
     }
-    
-],
-"clients": [
+  ],
+  "employees": [
     {
-        "id": 1,
-        "userId": 11
+      "id": 1,
+      "userId": 1,
+      "biography": "Lorem ipsum",
+      "petTypeId": 5
     },
     {
-        "id": 2,
-        "userId": 12
+      "id": 2,
+      "userId": 2,
+      "biography": "Lorem ipsum nmk",
+      "petTypeId": 1
     },
     {
-        "id": 3,
-        "userId": 13
+      "id": 3,
+      "userId": 3,
+      "biography": "Lorem ipsum nnh",
+      "petTypeId": 3
     },
     {
-        "id": 4,
-        "userId": 14
+      "id": 4,
+      "userId": 4,
+      "biography": "Lorem ipsum bhy",
+      "petTypeId": 2
     },
     {
-        "id": 5,
-        "userId": 15
+      "id": 5,
+      "userId": 5,
+      "biography": "Lorem ipsumhyr",
+      "petTypeId": 4
     },
     {
-        "id": 6,
-        "userId": 16
+      "id": 6,
+      "userId": 6,
+      "biography": "Lorem ipsum try",
+      "petTypeId": 6
     },
     {
-        "id": 7,
-        "userId": 17
+      "id": 7,
+      "userId": 7,
+      "biography": "Lorem ipsum xyz",
+      "petTypeId": 7
+    },
+    {
+      "id": 8,
+      "userId": 8,
+      "biography": "Lorem ipsum ywd",
+      "petTypeId": 7
+    },
+    {
+      "id": 9,
+      "userId": 9,
+      "biography": "Lorem ipsum jdi",
+      "petTypeId": 1
+    },
+    {
+      "id": 10,
+      "userId": 10,
+      "biography": "Lorem ipsum hdy",
+      "petTypeId": 2
     }
+  ],
+  "clients": [
     {
-        "id": 7,
-        "userId": 18
+      "id": 1,
+      "userId": 11
+    },
+    {
+      "id": 2,
+      "userId": 12
+    },
+    {
+      "id": 3,
+      "userId": 13
+    },
+    {
+      "id": 4,
+      "userId": 14
+    },
+    {
+      "id": 5,
+      "userId": 15
+    },
+    {
+      "id": 6,
+      "userId": 16
+    },
+    {
+      "id": 7,
+      "userId": 17
+    },
+    {
+      "id": 7,
+      "userId": 18
     }
-],
-"pets": [
+  ],
+  "pets": [
     {
         "id": 1,
         "clientId": 11,
@@ -404,22 +421,22 @@
     {
         "id": 1,
         "employeeId":0, 
-        "petId":,
-    },
+        "petId":1
+    }
 ],
 "clientPet": [
     {
         "id": 1,
         "clientId": 0,
-        "petId":
-    },
+        "petId": 1
+    }
 ],
 "petType": [
     {
         "id": 1,
-        "petType",
-        "petId":,
+        "type":1,
+        "petId":2
     }
-],
+]
 
 }
